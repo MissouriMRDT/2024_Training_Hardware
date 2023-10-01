@@ -1640,11 +1640,11 @@
     (property "Datasheet" "" (at 38.1 53.34 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 109d0814-549d-4286-a7a2-22010d469a6b))
+    (pin "1" (uuid 661adcbe-f420-4337-89ea-f8ce6c350551))
     (pin "2" (uuid 1eb44eca-da01-47ef-bbd7-2be93d869e82))
     (pin "3" (uuid 776e10b7-f41d-4328-a723-29c70e198f9d))
     (pin "4" (uuid 14d46195-0989-452c-98a8-12712eb3b698))
-    (pin "1" (uuid 661adcbe-f420-4337-89ea-f8ce6c350550))
+    (pin "1" (uuid 661adcbe-f420-4337-89ea-f8ce6c350551))
     (instances
       (project "Garrett_McEntire"
         (path "/91b31797-5cdf-49a6-a5fa-228cee527342"
@@ -2180,11 +2180,11 @@
     (property "Datasheet" "" (at 38.1 40.64 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid b6c9045b-cb12-4f57-aa0d-166ebf6433ca))
+    (pin "1" (uuid 42526b82-754c-4674-869a-3c8e2ac9cfb6))
     (pin "2" (uuid 4d83cda7-2266-412a-9e69-047978094caf))
     (pin "3" (uuid e3aafeab-2998-49b7-9c63-e3888e5a971c))
     (pin "4" (uuid efc36778-bd31-44c0-9f2b-70d86419743a))
-    (pin "1" (uuid 42526b82-754c-4674-869a-3c8e2ac9cfb5))
+    (pin "1" (uuid 42526b82-754c-4674-869a-3c8e2ac9cfb6))
     (instances
       (project "Garrett_McEntire"
         (path "/91b31797-5cdf-49a6-a5fa-228cee527342"
