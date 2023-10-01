@@ -2071,7 +2071,7 @@
     (property "Value" "10uF" (at 180.34 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 177.4952 43.18 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 177.4952 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 176.53 39.37 0)
@@ -2173,7 +2173,7 @@
     (property "Value" "0.1uF" (at 247.65 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 251.46 44.7548 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 251.46 44.7548 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 45.72 0)
@@ -2205,11 +2205,11 @@
     (property "Datasheet" "" (at 110.49 50.8 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 4c6f161c-89e5-444e-806d-54008a6188df))
+    (pin "1" (uuid 4c6f161c-89e5-444e-806d-54008a6188e0))
     (pin "2" (uuid 0992b643-0a9c-4597-a730-d85f3b233f8c))
     (pin "3" (uuid 92242b73-6a88-42dd-babf-b478e4014a16))
     (pin "4" (uuid 2801da5a-7cb0-4994-9ff8-fb0f9c8fa842))
-    (pin "1" (uuid 4c6f161c-89e5-444e-806d-54008a6188df))
+    (pin "1" (uuid 4c6f161c-89e5-444e-806d-54008a6188e0))
     (instances
       (project "Will_Grove_Training"
         (path "/f186793c-efa0-4ebb-8db8-d5157fd51cb1"
@@ -2285,11 +2285,11 @@
     (property "Datasheet" "" (at 110.49 64.77 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 07843fb9-1046-4dd8-864d-9fa8b1c67705))
+    (pin "1" (uuid 07843fb9-1046-4dd8-864d-9fa8b1c67706))
     (pin "2" (uuid 97c87b6c-046c-423d-9ce3-992c0bac6bd9))
     (pin "3" (uuid d5e49a73-dc44-46e5-988b-ca95dac779a5))
     (pin "4" (uuid c33f0bee-ba4a-489c-84de-b9ecf97b2fcd))
-    (pin "1" (uuid 07843fb9-1046-4dd8-864d-9fa8b1c67705))
+    (pin "1" (uuid 07843fb9-1046-4dd8-864d-9fa8b1c67706))
     (instances
       (project "Will_Grove_Training"
         (path "/f186793c-efa0-4ebb-8db8-d5157fd51cb1"
