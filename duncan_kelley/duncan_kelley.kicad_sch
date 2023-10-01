@@ -1532,7 +1532,7 @@
     )
     (pin "1" (uuid dbef65aa-d843-4f3b-98e3-8980d23f1c6b))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR09") (unit 1)
         )
@@ -1549,7 +1549,7 @@
     (property "Value" "120" (at 115.57 78.74 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 115.57 84.328 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 115.57 84.328 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 82.55 0)
@@ -1558,7 +1558,7 @@
     (pin "1" (uuid c101d50f-7362-484b-99fa-34425c3cecd1))
     (pin "2" (uuid c57e32dc-04b5-4c9a-bfac-1543ee01fc99))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "R3") (unit 1)
         )
@@ -1583,7 +1583,7 @@
     )
     (pin "1" (uuid 152c7202-bef1-4725-ad5c-69f2c5d0fc9e))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR02") (unit 1)
         )
@@ -1600,7 +1600,7 @@
     (property "Value" "Green" (at 128.5875 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 127 82.55 0)
+    (property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 127 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 127 82.55 0)
@@ -1609,7 +1609,7 @@
     (pin "1" (uuid 17c41e37-043b-416b-9cfb-926bbb6edf0a))
     (pin "2" (uuid 945ea19b-93f9-4dfe-a5e0-c7b911236551))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "D3") (unit 1)
         )
@@ -1626,7 +1626,7 @@
     (property "Value" "10uf" (at 52.07 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 49.2252 81.28 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 49.2252 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 48.26 77.47 0)
@@ -1635,7 +1635,7 @@
     (pin "1" (uuid 0cf459ed-79d0-4d7f-b708-3ceff814d5bb))
     (pin "2" (uuid f97a76b0-3089-411d-95ac-dbe09986c6bc))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "C1") (unit 1)
         )
@@ -1660,7 +1660,7 @@
     )
     (pin "1" (uuid 1e1cac10-06c8-44d9-ae75-d663521f30c9))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR08") (unit 1)
         )
@@ -1685,7 +1685,7 @@
     )
     (pin "1" (uuid c6c2e1b5-288b-47a5-ae45-3430949c6847))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR011") (unit 1)
         )
@@ -1702,7 +1702,7 @@
     (property "Value" "Green" (at 127 46.0375 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 123.19 43.18 0)
+    (property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 123.19 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 43.18 0)
@@ -1711,7 +1711,7 @@
     (pin "1" (uuid 8b9c30fc-efbf-411b-bd48-83469bfca0fd))
     (pin "2" (uuid e7eccff9-2a8e-4fd3-bfa3-267cdb3eab99))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "D2") (unit 1)
         )
@@ -1736,7 +1736,7 @@
     )
     (pin "1" (uuid d25a6c19-c490-4337-ab6c-4c28ceb23732))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR01") (unit 1)
         )
@@ -1753,7 +1753,7 @@
     (property "Value" "RJ45_LED_Shielded" (at 259.08 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 259.08 51.435 90)
+    (property "Footprint" "MRDT_Connectors:RJ45_Teensy" (at 259.08 51.435 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 259.08 51.435 90)
@@ -1773,7 +1773,7 @@
     (pin "9" (uuid d97d4a9d-4bf4-4331-8356-6442872d1867))
     (pin "SH" (uuid 0e091108-b5e1-470b-87da-7350307d22b5))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "J1") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     (property "Value" "SW_Push" (at 102.87 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 102.87 77.47 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_TL3305A" (at 102.87 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 102.87 77.47 0)
@@ -1799,7 +1799,7 @@
     (pin "1" (uuid c11318b7-59ec-440d-b743-fd8fd6de4f37))
     (pin "2" (uuid 401121e5-dfa1-4f33-b3ae-df1c02127ccd))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "SW1") (unit 1)
         )
@@ -1816,7 +1816,7 @@
     (property "Value" "0.1uf" (at 237.49 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 52.3748 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 241.3 52.3748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 237.49 53.34 0)
@@ -1825,7 +1825,7 @@
     (pin "1" (uuid 86de15f3-4176-40e0-a9ea-c053751bfb2f))
     (pin "2" (uuid 9eaa881d-f072-4d8f-839a-62d82d3b775b))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "C3") (unit 1)
         )
@@ -1850,7 +1850,7 @@
     )
     (pin "1" (uuid 4f4aa05c-5e85-4244-8514-d6cbdfb30ec5))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR07") (unit 1)
         )
@@ -1875,7 +1875,7 @@
     )
     (pin "1" (uuid 67ce0dd3-0e5e-4b7e-8573-51041f25ae07))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR010") (unit 1)
         )
@@ -1892,7 +1892,7 @@
     (property "Value" "OKI" (at 35.56 67.31 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (at 25.4 77.47 0)
+    (property "Footprint" "MRDT_Devices:OKI_Horizontal" (at 25.4 77.47 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 25.4 77.47 0)
@@ -1902,7 +1902,7 @@
     (pin "2" (uuid 9d93dc36-de54-4a92-be12-57b2f258efe2))
     (pin "3" (uuid 812be76b-d549-481a-a2d5-3356dc39ab19))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "U1") (unit 1)
         )
@@ -1927,7 +1927,7 @@
     )
     (pin "1" (uuid 8cdc4df7-cfa2-4a82-90ff-5154d6b82a98))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR03") (unit 1)
         )
@@ -1944,19 +1944,19 @@
     (property "Value" "AndersonPP" (at 34.29 26.67 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (at 27.94 48.26 0)
+    (property "Footprint" "MRDT_Connectors:Square_Anderson_2_H_Side_By_Side_PV" (at 27.94 48.26 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 27.94 48.26 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ae188819-a009-4f13-a595-54d65b72e617))
+    (pin "1" (uuid 4bea4b1c-5724-49b9-b423-6a8ee47a45db))
     (pin "2" (uuid 1faf4693-7230-4710-a7df-76a8492af6b3))
     (pin "3" (uuid 3f29bfee-a397-492f-8fc4-3c3b38f4c446))
     (pin "4" (uuid f21dbdc0-3efc-4176-a1f5-69aa284bb33e))
     (pin "1" (uuid 4bea4b1c-5724-49b9-b423-6a8ee47a45db))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "Conn1") (unit 4)
         )
@@ -1973,7 +1973,7 @@
     (property "Value" "Teensy4.1_DEV-16771" (at 207.01 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MODULE_DEV-16771" (at 260.35 88.9 0)
+    (property "Footprint" "MRDT_Shields:Teensy_4_1" (at 260.35 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at 207.01 81.28 0)
@@ -2057,7 +2057,7 @@
     (pin "VIN" (uuid 44875713-8f79-4adf-a802-9aa0d92830c5))
     (pin "VUSB" (uuid ee2ff7c5-67f1-4897-b767-e095e68c2cd6))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "U2") (unit 1)
         )
@@ -2082,7 +2082,7 @@
     )
     (pin "1" (uuid 3db4e8c7-1b99-49f1-b7dd-983b8c8a52ab))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR04") (unit 1)
         )
@@ -2099,7 +2099,7 @@
     (property "Value" "3k" (at 110.49 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 106.172 33.02 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 106.172 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 33.02 0)
@@ -2108,7 +2108,7 @@
     (pin "1" (uuid 0a45e22c-24ab-4e3f-9afd-79c04ba071c8))
     (pin "2" (uuid aa1df4ce-8bf6-44dc-b40f-d27df6dae291))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "R1") (unit 1)
         )
@@ -2125,7 +2125,7 @@
     (property "Value" "10uf" (at 26.67 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 23.8252 81.28 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 23.8252 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 22.86 77.47 0)
@@ -2134,7 +2134,7 @@
     (pin "1" (uuid 889a02ec-5849-4639-a95a-051fe4dcb0d3))
     (pin "2" (uuid 86f1cfcd-5107-4848-984d-4298e6852e16))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "C2") (unit 1)
         )
@@ -2151,19 +2151,19 @@
     (property "Value" "AndersonPP" (at 34.29 39.37 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (at 27.94 60.96 0)
+    (property "Footprint" "MRDT_Connectors:Square_Anderson_2_H_Side_By_Side_PV" (at 27.94 60.96 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 27.94 60.96 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 5243a5af-3988-4a64-9aac-55ba61572a67))
+    (pin "1" (uuid caa03085-63e3-4aeb-b802-3c3f04e97fad))
     (pin "2" (uuid 9d57546a-d978-4359-bad3-b81b7087979d))
     (pin "3" (uuid 44bbbb3f-5923-4ac5-a959-594664db190b))
     (pin "4" (uuid 8fd319b4-8777-4e6d-9441-37251a525a63))
     (pin "1" (uuid caa03085-63e3-4aeb-b802-3c3f04e97fad))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "Conn1") (unit 1)
         )
@@ -2188,7 +2188,7 @@
     )
     (pin "1" (uuid ed3fc3ad-e6c4-4417-ac6a-2d3b19edc072))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR06") (unit 1)
         )
@@ -2205,7 +2205,7 @@
     (property "Value" "Green" (at 111.76 46.0375 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 107.95 43.18 0)
+    (property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 107.95 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 43.18 0)
@@ -2214,7 +2214,7 @@
     (pin "1" (uuid b4825b35-4938-4c5f-adb0-306bfd7ad3c7))
     (pin "2" (uuid f64bd290-0702-4169-a227-ebfdb2f021b9))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "D1") (unit 1)
         )
@@ -2239,7 +2239,7 @@
     )
     (pin "1" (uuid be28d3bb-9b0f-4f0d-a981-21afc94a85c5))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "#PWR05") (unit 1)
         )
@@ -2256,7 +2256,7 @@
     (property "Value" "120" (at 125.73 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 121.412 33.02 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 121.412 33.02 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 33.02 0)
@@ -2268,7 +2268,7 @@
     (pin "1" (uuid b2fe5bb2-ee1b-4672-8ac3-0e306b165ad4))
     (pin "2" (uuid dcb57515-b784-46cb-8188-caafca65b3f3))
     (instances
-      (project "duncankelley"
+      (project "duncan_kelley"
         (path "/db90db77-1fcf-47bb-acb2-4fc76581a666"
           (reference "R2") (unit 1)
         )
