@@ -1194,7 +1194,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp d3fb2eb0-52f8-44f7-bc42-068050001ab0))
   (gr_line (start 181.864 113.284) (end 181.864 72.39)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp eb9bb1a5-4a81-44a7-a5a0-d14371c7f825))
-  (image (at 94.234 126.238) (layer "F.Cu") (scale 0.05)
+  (image (at 105.41 98.298) (layer "F.SilkS") (scale 0.03)
     (data
       iVBORw0KGgoAAAANSUhEUgAAChEAAAK6CAYAAAA9hu96AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
       AAAK8AAACvABQqw0mAAAIABJREFUeJzs3XmcHFW9///3mbAFJQlgBATMsIigFzLIBW70XmlFRFAk
