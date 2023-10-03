@@ -1534,11 +1534,11 @@
     (property "Datasheet" "" (at 26.67 60.96 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid d6863628-5a16-4fa5-82c6-623c9a3ae2e2))
+    (pin "1" (uuid 16097c99-06c5-495f-a8f8-88c684dca518))
     (pin "2" (uuid 9f00e027-8a9e-4957-a948-903654ac1379))
     (pin "3" (uuid 9f553f0c-46f8-4051-a635-743f5cec496a))
     (pin "4" (uuid 8c367071-db7a-4310-937a-6fb6369aa638))
-    (pin "1" (uuid 16097c99-06c5-495f-a8f8-88c684dca517))
+    (pin "1" (uuid 16097c99-06c5-495f-a8f8-88c684dca518))
     (instances
       (project "Ethan_Williams"
         (path "/ff2c1786-2a92-43f7-bf31-b244b8738218"
@@ -2073,11 +2073,11 @@
     (property "Datasheet" "" (at 26.67 45.72 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 5ea68337-91e8-41b6-b01e-c547d5efecf3))
+    (pin "1" (uuid 1659d88d-a862-4ee9-8e79-81f7b9dd9abb))
     (pin "2" (uuid 506c4d72-8159-4260-82b1-f3cb92c9deb7))
     (pin "3" (uuid 5158d357-91b3-401d-9a20-299a909d915f))
     (pin "4" (uuid 0c93f91c-afc4-40b4-8473-7ae8851fb97a))
-    (pin "1" (uuid 1659d88d-a862-4ee9-8e79-81f7b9dd9aba))
+    (pin "1" (uuid 1659d88d-a862-4ee9-8e79-81f7b9dd9abb))
     (instances
       (project "Ethan_Williams"
         (path "/ff2c1786-2a92-43f7-bf31-b244b8738218"
