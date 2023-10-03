@@ -1509,6 +1509,14 @@
     (uuid 93acff08-d95a-43d6-a8ad-2cab0f1a97c5)
   )
 
+  (label "R-" (at 215.9 53.34 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 18bccd26-743e-42f8-8fdb-f7e8f3858d0c)
+  )
+  (label "R+" (at 215.9 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c6635d32-3221-493b-9cb4-446fdf2c278c)
+  )
   (label "T-" (at 215.9 48.26 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d1ce377a-4791-4ad1-a995-1f3fbd032824)
@@ -1875,11 +1883,11 @@
     (property "Datasheet" "" (at 21.59 54.61 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3931aaf8-a2fa-4f13-b97e-367fbfc35eb6))
+    (pin "1" (uuid 3931aaf8-a2fa-4f13-b97e-367fbfc35eb7))
     (pin "2" (uuid c34fb3d6-c939-4181-b8f8-1979e722d564))
     (pin "3" (uuid 2a2ff3c0-5d25-446b-a234-6b17c4ab4c0b))
     (pin "4" (uuid 75b27392-dfc6-4ec1-936b-e21c908542c4))
-    (pin "1" (uuid 3931aaf8-a2fa-4f13-b97e-367fbfc35eb6))
+    (pin "1" (uuid 3931aaf8-a2fa-4f13-b97e-367fbfc35eb7))
     (instances
       (project "Niko Hidayat"
         (path "/68d2f6ca-d09c-4930-8638-07c276b21ee5"
@@ -2082,11 +2090,11 @@
     (property "Datasheet" "" (at 21.59 39.37 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid bb63336f-e69b-428d-9b18-38700732321b))
+    (pin "1" (uuid bb63336f-e69b-428d-9b18-38700732321c))
     (pin "2" (uuid fda058e9-570c-4421-b4a1-961fdace4ea8))
     (pin "3" (uuid d1f6fecb-cfc4-445e-ac1c-64fa80316266))
     (pin "4" (uuid 5eabd3ab-b335-4222-9598-2a2954f0242a))
-    (pin "1" (uuid bb63336f-e69b-428d-9b18-38700732321b))
+    (pin "1" (uuid bb63336f-e69b-428d-9b18-38700732321c))
     (instances
       (project "Niko Hidayat"
         (path "/68d2f6ca-d09c-4930-8638-07c276b21ee5"
